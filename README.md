@@ -1,6 +1,6 @@
 # CFMXCompat
 
-Use CFMX Compat encryption in C#.
+Use CFMX Compat encryption in C# (This is primarily compiler generated code).
 
 ## Description
 
